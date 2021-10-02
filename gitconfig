@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = shiqian_liu@hotmail.com
+	name = David Liu
